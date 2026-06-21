@@ -1,6 +1,6 @@
 # Analisador de BDGDs
 
-Analisador de BDGDs é uma aplicação desktop desenvolvida em Python para análise de inconsistências na Base de Dados Geográfica da Distribuidora (BDGD) da ANEEL. 
+Analisador de BDGDs é uma aplicação desktop desenvolvida em Python para análise de inconsistências na Base de Dados Geográfica da Distribuidora (BDGD) da ANEEL sob o viés de perdas técnicas.  
 
 A ferramenta automatiza um pipeline completo de dados, cobrindo as etapas de extração das bases via API pública da ANEEL, importação para banco de dados DuckDB, reconstrução topológica da rede por algoritmo BFS, execução de dez regras de verificação de inconsistências, conversão para o simulador OpenDSS e simulação de fluxo de potência em modo Diário. 
 
