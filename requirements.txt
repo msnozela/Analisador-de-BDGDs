@@ -1,0 +1,12 @@
+duckdb
+pandas
+geopandas
+fiona
+shapely
+folium
+branca
+matplotlib
+openpyxl
+arcgis
+bdgd2opendss
+altds
