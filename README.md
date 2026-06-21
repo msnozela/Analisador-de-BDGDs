@@ -1,7 +1,7 @@
 # Analisador de BDGDs
 
 Ferramenta desktop para análise de inconsistências na Base de Dados 
-Geográfica da Distribuidora (BDGD) da ANEEL.
+Geográfica da Distribuidora (BDGD) da ANEEL sob o viés de perdas técnicas na distribuição de energia elétrica. 
 
 Desenvolvida como TCC de MBA em Data Science & Analytics — USP.
 
